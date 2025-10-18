@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/sky.ezhoosh.com.ico",
     "slug": "sky-backend",
     "status": "up",
-    "uptime": "2.91%",
-    "uptimeDay": "2.91%",
-    "uptimeWeek": "2.91%",
-    "uptimeMonth": "2.91%",
-    "uptimeYear": "2.91%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 422,
     "timeDay": 422,
     "timeWeek": 422,
     "timeMonth": 422,
     "timeYear": 422,
-    "dailyMinutesDown": {
-      "2025-10-18": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Sky Jitsi",
@@ -43,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-users.ezhoosh.com.ico",
     "slug": "ez-crm",
     "status": "up",
-    "uptime": "1.88%",
-    "uptimeDay": "1.88%",
-    "uptimeWeek": "1.88%",
-    "uptimeMonth": "1.88%",
-    "uptimeYear": "1.88%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 703,
     "timeDay": 703,
     "timeWeek": 703,
     "timeMonth": 703,
     "timeYear": 703,
-    "dailyMinutesDown": {
-      "2025-10-18": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "EzRebar",
@@ -63,18 +59,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/rebar-backend.ezhoosh.com.ico",
     "slug": "ez-rebar",
     "status": "up",
-    "uptime": "1.16%",
-    "uptimeDay": "1.16%",
-    "uptimeWeek": "1.16%",
-    "uptimeMonth": "1.16%",
-    "uptimeYear": "1.16%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 454,
     "timeDay": 454,
     "timeWeek": 454,
     "timeMonth": 454,
     "timeYear": 454,
-    "dailyMinutesDown": {
-      "2025-10-18": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]
