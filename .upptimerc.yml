@@ -4,13 +4,13 @@ repo: uptime # The name of this repository
 
 sites:
   - name: Sky Backend
-    url: https://sky.ezhoosh.com
+    url: https://sky.ezhoosh.com/api/v1/docs/
   - name: Sky Jitsi
     url: https://jitsi.ezhoosh.com
   - name: EzCRM
-    url: https://api-users.ezhoosh.com
+    url: https://api-users.ezhoosh.com/en/api/v1/docs/
   - name: EzRebar
-    url: https://rebar-backend.ezhoosh.com
+    url: https://rebar-backend.ezhoosh.com/en/api/v1/docs/
   # - name: IPv6 test
   #   url: forwardemail.net
   #   port: 80
