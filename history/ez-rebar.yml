@@ -1,7 +1,7 @@
-url: https://rebar-backend.ezhoosh.com
-status: down
-code: 404
-responseTime: 410
-lastUpdated: 2025-10-18T10:26:09.232Z
+url: https://rebar-backend.ezhoosh.com/en/api/v1/docs/
+status: up
+code: 200
+responseTime: 497
+lastUpdated: 2025-10-18T10:31:03.171Z
 startTime: 2025-10-18T10:26:08.520Z
 generator: Upptime <https://github.com/upptime/upptime>
