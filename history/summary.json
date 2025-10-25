@@ -58,7 +58,7 @@
     "url": "https://rebar-backend.ezhoosh.com/en/api/v1/docs/",
     "icon": "https://icons.duckduckgo.com/ip3/rebar-backend.ezhoosh.com.ico",
     "slug": "ez-rebar",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,6 +69,8 @@
     "timeWeek": 459,
     "timeMonth": 459,
     "timeYear": 459,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-25": 0
+    }
   }
 ]
