@@ -4,19 +4,19 @@
     "url": "https://sky.ezhoosh.com/api/v1/docs/",
     "icon": "https://icons.duckduckgo.com/ip3/sky.ezhoosh.com.ico",
     "slug": "sky-backend",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 401,
-    "timeDay": 259,
-    "timeWeek": 389,
-    "timeMonth": 401,
-    "timeYear": 401,
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "98.20%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
+    "time": 397,
+    "timeDay": 293,
+    "timeWeek": 386,
+    "timeMonth": 397,
+    "timeYear": 397,
     "dailyMinutesDown": {
-      "2025-10-26": 0
+      "2025-10-26": 26
     }
   },
   {
