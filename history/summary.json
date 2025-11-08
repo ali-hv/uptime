@@ -42,18 +42,20 @@
     "url": "https://api-users.ezhoosh.com/en/api/v1/docs/",
     "icon": "https://icons.duckduckgo.com/ip3/api-users.ezhoosh.com.ico",
     "slug": "ez-crm",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 976,
-    "timeDay": 1041,
-    "timeWeek": 890,
-    "timeMonth": 976,
-    "timeYear": 976,
-    "dailyMinutesDown": {}
+    "time": 958,
+    "timeDay": 786,
+    "timeWeek": 845,
+    "timeMonth": 958,
+    "timeYear": 958,
+    "dailyMinutesDown": {
+      "2025-11-08": 0
+    }
   },
   {
     "name": "EzRebar",
